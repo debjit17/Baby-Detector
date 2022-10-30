@@ -1,0 +1,38 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #number_of_objects, #start_model
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px greay;
+    
+}
+
+a
+{
+    float: right;
+    font-size: 20px !important;
+    margin: 5px;
+    background: black;
+    cursor: pointer;
+    color: white;
+}
+
+a:hover
+{
+    color: red !important;
+}
